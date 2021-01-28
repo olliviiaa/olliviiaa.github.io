@@ -1,0 +1,39 @@
+body{
+	background-color:#ffc971;
+}
+h2{
+	font-family:Tahoma;
+	padding-left:25px;
+}
+#h{
+	padding-right:30px;
+	padding-bottom:15px;
+	float:right;
+}
+form{
+	background-color:#faf0ca;
+	padding:15px;
+}
+input{
+	width:265px;
+	padding: 10px;
+}
+input[name="b"]{
+	width: 265px;
+	height: 228px;
+	object-fit: cover;
+}
+input[name="a"]{
+	width: 265px;
+	height: 228px;
+	object-fit: cover;
+}
+input[name="l"]{
+	width:265px;
+	height:177px;
+	object-fit: cover;
+}
+img{
+	padding: 15px;
+	width: 1185px;
+}
